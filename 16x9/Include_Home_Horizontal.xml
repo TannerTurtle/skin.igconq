@@ -8,7 +8,7 @@
 			<top>765</top>
 			<width>1880</width>
 			<height>295</height>
-			<texture border="0,40,0,0">common/CurveHorzHome.png</texture>
+			<texture border="0,40,0,0">common/CurveHorzAlt.png</texture>
 			<visible>Skin.HasSetting(ShowCurve)</visible>
 		</control>
 

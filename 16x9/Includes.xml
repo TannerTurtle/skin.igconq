@@ -584,7 +584,7 @@
 				<control type="image">
 					<left>20</left>
 					<bottom>20</bottom>
-					<width>1940</width>
+					<width>1880</width>
 					<height>160</height>
 					<texture border="0,0,40,0">common/CurveHorzAlt.png</texture>
 					<visible>Skin.HasSetting(ShowCurve)</visible>
@@ -592,7 +592,7 @@
 				<control type="image">
 					<left>20</left>
 					<bottom>20</bottom>
-					<width>1940</width>
+					<width>1880</width>
 					<height>160</height>
 					<texture border="0,0,40,0">common/CurveHorzAlt.png</texture>
 					<include>VisibleFadeAnimation</include>
