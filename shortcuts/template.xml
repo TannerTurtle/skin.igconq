@@ -352,6 +352,7 @@
 						<width>35</width>
 						<height>49</height>
 						<texture>$VAR[StatusOverlayWide]</texture>
+						<colordiffuse>OverlayColorNF</colordiffuse>
 						<visible>!Skin.HasSetting(widgetIcons)</visible>
 					</control>
 				</itemlayout>

@@ -47,6 +47,7 @@
 						<width>30</width>
 						<height>42</height>
 						<texture>$VAR[StatusOverlayWide]</texture>
+						<colordiffuse>OverlayColorNF</colordiffuse>
 					</control>
 				</itemlayout>
 
