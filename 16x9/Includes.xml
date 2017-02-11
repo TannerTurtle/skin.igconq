@@ -1,5 +1,6 @@
 <includes>
 
+	<include file="Animations.xml" />
 	<include file="Defaults.xml" />
 	<include file="Include_Home_OSMC.xml" />
 	<include file="Include_Home_Vertical.xml" />
