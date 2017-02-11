@@ -4,7 +4,7 @@
 	<backgroundcolor>0x00000000</backgroundcolor>
 	<defaultcontrol always="true">50</defaultcontrol>
 	<onload condition="System.HasAddon(script.tvtunes)">XBMC.RunScript(script.tvtunes,backend=True)</onload>
-	<views>52,53,51,50</views>
+	<views>52,53,51,50,60,61</views>
 
 	<controls>
 
@@ -16,6 +16,8 @@
 			<include>WindowFadeAnimation</include>
 
 			<!-- Views -->
+			<include>ForcedViewtype60</include>
+			<include>ForcedViewtype61</include>
 			<include>Viewtype50</include>
 			<include>Viewtype51</include>
 			<include>Viewtype52</include>
